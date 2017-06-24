@@ -19,16 +19,16 @@ namespace Training
 
 
         public int Maximum(int[] values)
+        {
+            int max = values[0];
+            for (int i = 0; i < values.Length; i++)
             {
-                int max = values[0];
-                for (int i = 0; i < values.Length; i++)
+                if (values[i] > max)
                 {
-                    if (values[i] > max)
-                    {
-                        max = values[i];
-                    }
+                    max = values[i];
                 }
-                return max;
             }
+            return max;
+        }
     } 
 }
