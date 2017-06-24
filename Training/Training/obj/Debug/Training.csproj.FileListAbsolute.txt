@@ -1,0 +1,6 @@
+C:\Formacion\UnitTest\Training\Training\bin\Debug\Training.exe.config
+C:\Formacion\UnitTest\Training\Training\bin\Debug\Training.exe
+C:\Formacion\UnitTest\Training\Training\bin\Debug\Training.pdb
+C:\Formacion\UnitTest\Training\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
+C:\Formacion\UnitTest\Training\Training\obj\Debug\Training.exe
+C:\Formacion\UnitTest\Training\Training\obj\Debug\Training.pdb

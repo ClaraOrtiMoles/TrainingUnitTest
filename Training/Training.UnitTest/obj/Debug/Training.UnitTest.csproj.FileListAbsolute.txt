@@ -1,0 +1,15 @@
+C:\Formacion\UnitTest\Training\Training.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Formacion\UnitTest\Training\Training.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Formacion\UnitTest\Training\Training.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Formacion\UnitTest\Training\Training.UnitTest\bin\Debug\Training.UnitTest.dll
+C:\Formacion\UnitTest\Training\Training.UnitTest\bin\Debug\Training.UnitTest.pdb
+C:\Formacion\UnitTest\Training\Training.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Formacion\UnitTest\Training\Training.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Formacion\UnitTest\Training\Training.UnitTest\bin\Debug\Training.exe
+C:\Formacion\UnitTest\Training\Training.UnitTest\bin\Debug\Training.pdb
+C:\Formacion\UnitTest\Training\Training.UnitTest\bin\Debug\Training.exe.config
+C:\Formacion\UnitTest\Training\Training.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Formacion\UnitTest\Training\Training.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Formacion\UnitTest\Training\Training.UnitTest\obj\Debug\Training.UnitTest.csprojResolveAssemblyReference.cache
+C:\Formacion\UnitTest\Training\Training.UnitTest\obj\Debug\Training.UnitTest.dll
+C:\Formacion\UnitTest\Training\Training.UnitTest\obj\Debug\Training.UnitTest.pdb
