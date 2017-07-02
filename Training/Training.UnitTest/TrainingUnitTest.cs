@@ -6,7 +6,7 @@ namespace Training.UnitTest
     public class TrainingUnitTest
     {
         [Fact]
-        public void MaximumMethod_MaxAtTheEnd_ReturnLastElement()
+        public void MaximumMethod_MaxLastElementOfTheArray_ReturnLastElement()
         {
             //Arrange
             var myArray = new int[]{ 0, 1, 2, 3, 4, 5 };
@@ -19,7 +19,7 @@ namespace Training.UnitTest
         }
 
         [Fact]
-        public void MaximumMethod_OnlyOneElement_ReturntheOnlyElement()
+        public void MaximumMethod_ArrayOfOnlyOneElement_ReturntheOnlyElement()
         {
             //Arrange
             var myArray = new int[] { 5 };
@@ -30,5 +30,14 @@ namespace Training.UnitTest
             //Assert
             Assert.Equal(result, 5);
         }
+
+
+
+        /*
+        [Fact]
+        public void testCalculateMaximum()
+        {
+            //Example of bad name for an unit test
+        }*/
     }
 }
